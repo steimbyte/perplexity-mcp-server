@@ -1,5 +1,8 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/steimerbyte)
 
+> ⭐ If you find this useful, consider [supporting me on Ko-fi](https://ko-fi.com/steimerbyte)!
+
+
 # Perplexity MCP Server
 
 This is a Model Context Protocol (MCP) server that integrates with the Perplexity AI API to provide web search capabilities.
