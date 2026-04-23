@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/steimerbyte)
+
 # Perplexity MCP Server
 
 This is a Model Context Protocol (MCP) server that integrates with the Perplexity AI API to provide web search capabilities.
@@ -48,4 +50,3 @@ Add the following to your VSCode MCP settings (usually in `settings.json` under 
   }
 }
 ```
-
