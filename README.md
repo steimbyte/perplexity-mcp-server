@@ -54,3 +54,9 @@ Add the following to your VSCode MCP settings (usually in `settings.json` under 
   }
 }
 ```
+
+---
+
+## Hinweis zur KI-Unterstützung
+
+Bei der Entwicklung dieses Projekts wurden teilweise oder vollständig KI-gestützte Tools und Technologien eingesetzt.
